@@ -27,18 +27,6 @@ arrayHeaveyFun = function (arr) {
                 }
             }
             else {
-                // if(saveHeavyArr.length==0){
-                //     judagePush=false; 
-                // }else{
-                //     for(let k:number=0;k<saveHeavyArr.length;k++){
-                //         if(arr[j]==saveHeavyArr[k]){
-                //             judagePush=true;  
-                //             break;
-                //         }else{
-                //             judagePush=false;  
-                //         }
-                //     }
-                // }
                 judagePush = false;
             }
         }
