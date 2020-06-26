@@ -21,7 +21,6 @@ tsSort = function (originArray) {
                 }
             }
         }
-        // originArray[i] = saveMax;
         momentArr.push(saveMax);
         saveMax = 0;
     }

@@ -1,3 +1,4 @@
+// 自己想出来的， 查了一下是选择排序
 let originArray: number[] = [1, 5, 8, 2, 7, 3, 4, 9, 6, 10, 48, 11];
 
 interface tsSortInterface {

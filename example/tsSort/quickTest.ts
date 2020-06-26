@@ -1,3 +1,4 @@
+// 快速排序
 let testArr:number[] = [6,5,1,3,7,5,8,9,4,6,];
 
 let rankFun:(arr:number[]) => number[] = (testArr) => {

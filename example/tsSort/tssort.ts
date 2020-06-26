@@ -1,3 +1,4 @@
+// 冒泡排序
 let originArray: number[] = [1, 5, 8, 2, 7, 3, 4, 9, 6, 10, 48, 11];
 
 interface tsSortInterface {
